@@ -1,6 +1,6 @@
 using System;
 
-namespace PlaygroundAPI
+namespace API
 {
     public class WeatherForecast
     {

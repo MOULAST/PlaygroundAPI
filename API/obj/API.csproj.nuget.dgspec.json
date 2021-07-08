@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MOULAST\\Documents\\GitHub\\PlaygroundAPI\\PlaygroundAPI.csproj": {}
+    "c:\\Users\\MOULAST\\Documents\\GitHub\\PlaygroundAPI\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MOULAST\\Documents\\GitHub\\PlaygroundAPI\\PlaygroundAPI.csproj": {
+    "c:\\Users\\MOULAST\\Documents\\GitHub\\PlaygroundAPI\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MOULAST\\Documents\\GitHub\\PlaygroundAPI\\PlaygroundAPI.csproj",
-        "projectName": "PlaygroundAPI",
-        "projectPath": "C:\\Users\\MOULAST\\Documents\\GitHub\\PlaygroundAPI\\PlaygroundAPI.csproj",
+        "projectUniqueName": "c:\\Users\\MOULAST\\Documents\\GitHub\\PlaygroundAPI\\API\\API.csproj",
+        "projectName": "API",
+        "projectPath": "c:\\Users\\MOULAST\\Documents\\GitHub\\PlaygroundAPI\\API\\API.csproj",
         "packagesPath": "C:\\Users\\MOULAST\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MOULAST\\Documents\\GitHub\\PlaygroundAPI\\obj\\",
+        "outputPath": "c:\\Users\\MOULAST\\Documents\\GitHub\\PlaygroundAPI\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
